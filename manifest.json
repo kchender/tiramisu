@@ -1,6 +1,6 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "name": "tiramisu",
+    "description": "pick-me-up",
     "version": "1.0",
     "manifest_version": 3
   }
