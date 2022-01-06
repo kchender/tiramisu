@@ -10,16 +10,16 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "/images/tiramisu-16.png",
-      "32": "/images/tiramisu-32.png",
-      "48": "/images/tiramisu-48.png",
-      "128": "/images/tiramisu-128.png"
+      "16": "/images2/16.png",
+      "32": "/images2/32.png",
+      "48": "/images2/48.png",
+      "128": "/images2/128.png"
     }
   },
   "icons": {
-    "16": "/images/tiramisu-16.png",
-    "32": "/images/tiramisu-32.png",
-    "48": "/images/tiramisu-48.png",
-    "128": "/images/tiramisu-128.png"
+    "16": "/images2/16.png",
+    "32": "/images2/32.png",
+    "48": "/images2/48.png",
+    "128": "/images2/128.png"
   } 
 }
