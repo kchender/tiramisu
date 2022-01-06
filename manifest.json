@@ -2,5 +2,12 @@
     "name": "tiramisu",
     "description": "pick-me-up",
     "version": "1.0",
-    "manifest_version": 3
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["tabs", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
   }

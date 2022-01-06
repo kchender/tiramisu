@@ -1,1 +1,45 @@
-/* this will be css */
+h3 {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: navy;
+}
+
+button {
+  font-family: sans-serif;
+  font-size: 20px;
+  width: 150px;
+  height: 50px;
+  border-radius: 8px;
+  margin: 0 10px 10px 10px;
+  border: none;
+}
+
+#cute {
+  background-color: pink;
+  color: rgb(147, 7, 228);
+}
+
+#cute:hover {
+  background-color: rgba(255, 192, 203, 0.719);
+  color: rgb(147, 7, 228);
+}
+
+#cringe {
+  background-color: orangered;
+  color: rgb(236, 238, 214);
+}
+
+#cringe:hover {
+  background-color: rgba(255, 68, 0, 0.466);
+  color: rgb(236, 238, 214);
+}
+
+#lol {
+  background-color: lightblue;
+  color:rgb(7, 77, 228);
+}
+
+#lol:hover {
+  background-color: rgba(173, 216, 230, 0.568);
+  color:rgb(7, 77, 228);
+}
